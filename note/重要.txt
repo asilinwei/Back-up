@@ -1,0 +1,124 @@
+编译原理：http://frozengene.github.io/
+
+网页渲染：https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#context_free_grammar
+
+underscore源码分析：https://www.gitbook.com/book/yoyoyohamapi/undersercore-analysis/details
+
+
+JS测性能：https://jsperf.com/
+
+
+
+前端面试：https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md
+
+
+vczh的博客：http://www.cppblog.com/vczh
+
+一丝姐姐的博客：http://www.iyunlu.com/view/css-xhtml/64.html
+
+大漠：https://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html
+
+
+前端测试小工具：https://jsfiddle.net/
+
+
+
+<!--[if lt IE 9]>
+　　　　<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+　　<![endif]-->
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+
+
+尤雨溪Blog: http://evanyou.me/
+
+教务系统：http://61.142.33.204/
+
+
+
+检查html5规范和错误的网址：https://validator.w3.org/
+
+
+html5要了解完整的元素列表的网址：http://w3c.github.io/html-reference/
+
+
+可以详细地列出每一款主流浏览器对HTML5的支持情况：http://caniuse.com
+
+
+专门用于测试浏览器对很多HTML5及相关功能的支持情况Modernizr(中文网）:http://modernizr.cn/
+
+
+浏览器占比（流量跟踪站点）：http://gs.statcounter.com/
+
+
+正则：http://www.regexr.com/
+
+      https://regexper.com/
+
+DOM树：http://software.hixie.ch/utilities/js/live-dom-viewer/
+
+
+
+博客1：http://leanote.com/blog/58b766eeab6441152e00068a
+
+
+博客2：https://leanote.com/note/596b4407ab644155b6000efa
+
+
+
+腾讯云：https://www.qcloud.com/act/campus
+
+https://console.qcloud.com/beian/process
+
+
+英文书籍：https://salttiger.com/archives/
+
+
+接收表单数据的程序文件名：/cgi/sample.cgi
+
+
+
+淘宝npm镜像：http://npm.taobao.org/
+
+
+sublime服务器：http://localhost:8080/text/message.json
+
+http://localhost:8080/text/example.php
+
+http://localhost:8080/text/xml.txt
+
+跨域：http://www.gdst.cc/e/images/s1/logo11.png
+
+preflighted request所发送xml数据：<?xml version="1.0"?><person><name>Arun</name></person>
+
+
+jQuery文件：frame/jQuery/jquery-3.2.1.min.js
+
+jQuery的css文件：frame/jQuery/Code/Chapter 1/01.css
+
+jQuery中文API：http://www.jquery123.com/
+
+廖雪峰jQuery:https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499993118b8173572625b4afe93a8b19dd707ea1d000
+
+git教程：https://git-scm.com/book/zh/v2
+
+
+
+application/x-www-form-urlencoded
+
+
+谷歌email: linweinb@gmail.com。
+
+markdown编辑器：https://www.text.wiki/md/
+
+
+网页模板：http://www.cssmoban.com/
+1.http://demo.cssmoban.com/cssthemes4/cpts_699_ufw/index.html
+
+
+
+重造轮子：
+lodash :https://lodash.com/docs/4.17.5#concat
+
+underscore: http://underscorejs.org/#each

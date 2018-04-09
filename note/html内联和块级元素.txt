@@ -1,0 +1,28 @@
+内联：
+<time></time>（标注一个有效的日期或时间）
+<small></small>（用于附属细则（字体变小），老版本html有<big></big>（字体变大，被h5删掉））
+<s></s>(删除线)
+<strong></strong>
+<b></b>
+<i></i>（斜体）
+<em></em>
+<textarea></textarea>
+<output></output>
+<mark></mark>
+<del></del>(删除线，表示删除的文本）
+<ins></ins>(下划线，表示插入的文本)
+<cite></cite>（定义作品（比如书籍、歌曲、电影、电视节目、绘画、雕塑等等）的标题。）
+<q></q>(引号，表示引用）
+<code></code>(表示单行代码)
+<dfn></dfn>(定义专用，比如一些概念）
+<abbr title="HyperText Markup Language">HTML</abbr>(缩写词汇专用，比如HTML，W3C，WTO，ADSL)
+块级：
+<header></header>
+<footer></footer>
+<article></article>
+<figure></figure>
+<figcaption></figcaption>
+<aside></aside>
+<section></section>
+<blockquote cite="引用文本的URL"></blockquote>（长文本引用）
+<pre></pre>(预格式化文本，可表示多行代码，保留空格和换行）
