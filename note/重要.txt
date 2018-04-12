@@ -14,6 +14,9 @@ JS测性能：https://jsperf.com/
 前端面试：https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md
 
 
+R神的博客：http://rednaxelafx.iteye.com/blog/492667
+
+
 vczh的博客：http://www.cppblog.com/vczh
 
 一丝姐姐的博客：http://www.iyunlu.com/view/css-xhtml/64.html
