@@ -115,6 +115,9 @@ jQuery中文API：http://www.jquery123.com/
 
 git教程：https://git-scm.com/book/zh/v2
 
+Webkit的并发GC:https://webkit.org/blog/7122/introducing-riptide-webkits-retreating-wavefront-concurrent-garbage-collector/
+
+现代JS引擎会在函数执行的过程中进行垃圾回收，称为concurrent GC：https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview
 
 
 application/x-www-form-urlencoded
