@@ -1,5 +1,8 @@
 编译原理：http://frozengene.github.io/
 
+JSON parse:https://zhuanlan.zhihu.com/p/35703144
+
+
 网页渲染：https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#context_free_grammar
 
 underscore源码分析：https://www.gitbook.com/book/yoyoyohamapi/undersercore-analysis/details
