@@ -12,6 +12,8 @@ underscore源码分析：https://www.gitbook.com/book/yoyoyohamapi/undersercore-analy
 
 JS测性能：https://jsperf.com/
 
+Jim Liu的博客：http://jimliu.net/2015/03/07/something-about-encoding-extra/
+
 
 AST:http://nhiro.org/learn_language/AST-Visualization-on-browser.html
 
