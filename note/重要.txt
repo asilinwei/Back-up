@@ -1,6 +1,9 @@
 编译原理：http://frozengene.github.io/
 https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md
 
+
+学技术（尤雨溪推荐）：https://www.codecademy.com/learn
+
 JSON parse:https://zhuanlan.zhihu.com/p/35703144
 
 
