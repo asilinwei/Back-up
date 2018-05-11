@@ -4,6 +4,9 @@ https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin
 
 学技术（尤雨溪推荐）：https://www.codecademy.com/learn
 
+Nicholas叔叔的网站：https://www.nczonline.net/
+
+
 JSON parse:https://zhuanlan.zhihu.com/p/35703144
 
 
