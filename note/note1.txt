@@ -1,0 +1,3 @@
+JavaScript:
+
+if语句和switch语句都会从上到下一个一个判断。
