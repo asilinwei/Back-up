@@ -1,5 +1,6 @@
 编译原理：http://frozengene.github.io/
 https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md
+MRTE:https://software.intel.com/en-us/articles/what-managed-runtime-environments-mrtes-mean-to-you
 
 
 学技术（尤雨溪推荐）：https://www.codecademy.com/learn
