@@ -2,6 +2,8 @@
 https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md
 MRTE:https://software.intel.com/en-us/articles/what-managed-runtime-environments-mrtes-mean-to-you
 
+php手册：www.php.net/functionname
+
 
 学技术（尤雨溪推荐）：https://www.codecademy.com/learn
 
@@ -151,6 +153,7 @@ markdown编辑器：https://www.text.wiki/md/
 
 
 重造轮子：
+1.JavaScript:
 lodash :https://lodash.com/docs/4.17.5#concat
 
 underscore: http://underscorejs.org/#each
