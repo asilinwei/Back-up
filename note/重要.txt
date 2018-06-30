@@ -4,6 +4,8 @@ MRTE:https://software.intel.com/en-us/articles/what-managed-runtime-environments
 
 php手册：www.php.net/functionname
 
+刷算法题LeetCode: https://leetcode.com/
+
 
 学技术（尤雨溪推荐）：https://www.codecademy.com/learn
 
