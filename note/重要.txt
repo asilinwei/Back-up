@@ -15,7 +15,6 @@ Nicholas叔叔的网站：https://www.nczonline.net/
 CSS诞生历史：https://www.w3.org/Style/CSS20/history.html
 
 
-JSON parse:https://zhuanlan.zhihu.com/p/35703144
 
 
 网页渲染：https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#context_free_grammar
