@@ -23,6 +23,7 @@ underscore源码分析：https://www.gitbook.com/book/yoyoyohamapi/undersercore-analy
 
 油猴脚本：https://greasyfork.org/zh-CN/scripts
 
+跟jQuery相似的轻量级JavaScript库Zepto：http://zeptojs.com/
 
 JS测性能：https://jsperf.com/
 
